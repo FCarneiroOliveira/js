@@ -13,5 +13,4 @@ function calcular(){
             tab.appendChild(r)
         }   
     }
-    
 }
